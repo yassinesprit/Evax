@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\Vaccination\Vac.Infrastructure\bin\Debug\net6.0\Vac.Infrastructure.deps.json
+C:\Users\USER\source\repos\Vaccination\Vac.Infrastructure\bin\Debug\net6.0\Vac.Infrastructure.runtimeconfig.json
+C:\Users\USER\source\repos\Vaccination\Vac.Infrastructure\bin\Debug\net6.0\Vac.Infrastructure.dll
+C:\Users\USER\source\repos\Vaccination\Vac.Infrastructure\bin\Debug\net6.0\Vac.Infrastructure.pdb
+C:\Users\USER\source\repos\Vaccination\Vac.Infrastructure\bin\Debug\net6.0\Vac.ApplicationCore.dll
+C:\Users\USER\source\repos\Vaccination\Vac.Infrastructure\bin\Debug\net6.0\Vac.ApplicationCore.pdb
+C:\Users\USER\source\repos\Vaccination\Vac.Infrastructure\obj\Debug\net6.0\Vac.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Vaccination\Vac.Infrastructure\obj\Debug\net6.0\Vac.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Vaccination\Vac.Infrastructure\obj\Debug\net6.0\Vac.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Vaccination\Vac.Infrastructure\obj\Debug\net6.0\Vac.Infrastructure.AssemblyInfo.cs
+C:\Users\USER\source\repos\Vaccination\Vac.Infrastructure\obj\Debug\net6.0\Vac.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Vaccination\Vac.Infrastructure\obj\Debug\net6.0\Vac.Infrastructure.csproj.CopyComplete
+C:\Users\USER\source\repos\Vaccination\Vac.Infrastructure\obj\Debug\net6.0\Vac.Infrastructure.dll
+C:\Users\USER\source\repos\Vaccination\Vac.Infrastructure\obj\Debug\net6.0\refint\Vac.Infrastructure.dll
+C:\Users\USER\source\repos\Vaccination\Vac.Infrastructure\obj\Debug\net6.0\Vac.Infrastructure.pdb
+C:\Users\USER\source\repos\Vaccination\Vac.Infrastructure\obj\Debug\net6.0\Vac.Infrastructure.genruntimeconfig.cache
+C:\Users\USER\source\repos\Vaccination\Vac.Infrastructure\obj\Debug\net6.0\ref\Vac.Infrastructure.dll
